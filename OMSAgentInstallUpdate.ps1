@@ -1,7 +1,6 @@
 ﻿##########################################################################################
 #                                                                                        #
 # Install, Update and reconfigure OMS Agent to SCOM 2016 Version, and add new workspaces #
-                                                                  #
 #                                                                                        #
 # Filename: OMSInstallUpdate.ps1                                                         #
 #                                                                                        #
